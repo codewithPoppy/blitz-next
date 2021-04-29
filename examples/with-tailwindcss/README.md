@@ -4,8 +4,6 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) wi
 
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
-It uses the new [`@tailwindcss/jit`](https://github.com/tailwindlabs/tailwindcss-jit) engine for Tailwind CSS.
-
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
